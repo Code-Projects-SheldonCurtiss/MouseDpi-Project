@@ -1,0 +1,1 @@
+cmd /c start code.exe . --extensions-dir "%~dp0dependencies\editor"
